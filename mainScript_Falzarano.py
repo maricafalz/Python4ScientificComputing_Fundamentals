@@ -1,5 +1,5 @@
 import os
-os.chdir("C:\Users\Giulia\Desktop\Nuova cartella")
+os.chdir("C:\Users\Marica\Desktop\python assignments")
 
 
 from wallCalculations_Falzarano import wallCalculations
